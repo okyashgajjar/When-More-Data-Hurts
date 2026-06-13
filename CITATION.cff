@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "When More Data Hurts: An Empirical Study of Noise Sensitivity and Performance Saturation in Machine Learning Models"
+message: "If you use this work, please cite the published paper."
+type: article
+authors:
+  - given-names: "Yash"
+    family-names: "Gajjar"
+  - given-names: "Aarush Jaiminbhai"
+    family-names: "Patel"
+  - given-names: "Sakshi Rajeshbhai"
+    family-names: "Mistry"
+  - given-names: "Dhruvil Sanjaykumar"
+    family-names: "Prajapati"
+  - given-names: "Axita Jitendrakumar"
+    family-names: "Patel"
+  - given-names: "Jalpa"
+    family-names: "Patel"
+journal: "International Journal of Current Science (IJCSPUB)"
+volume: 16
+issue: 2
+pages: "676-689"
+year: 2026
+issn: "2250-1770"
+doi: "https://rjpn.org/IJCSPUB/papers/IJCSP26B1097.pdf"
